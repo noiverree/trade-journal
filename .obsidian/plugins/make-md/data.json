@@ -35,7 +35,13 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Tags",
+    "//Technical Tools",
+    "//_Plugins",
+    "//_Plugins/_Plugins/Excalidraw",
+    "//_Images",
+    "//Images/Images/Technical Tools"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

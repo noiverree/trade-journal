@@ -1,4 +1,7 @@
-Here are some key settings for my TradingView chart style. From candlestick colors to tweaking the look of different tools, I want everything to be clean, easy on the eyes, and functional. This is where I keep track of the adjustments I make so I don’t have to redo everything from scratch if I ever reset my setup.
+---
+sticker: lucide//airplay
+---
+Here are some key settings for my TradingView chart style. From candlestick colors to tweaking the look of different tools, I want everything to be clean, easy on the eyes, and functional. This is where I keep track of the adjustments I make so I don’t have to redo everything from scratch if I ever reset my setup. This setup is heavily inspired by "Bloomberg Terminal" style found in chartthemes, a website providing themes for TradingView chart styles. [^1][^2]
 
 ---
 ## Terminal
@@ -23,9 +26,19 @@ Here are some key settings for my TradingView chart style. From candlestick colo
 #### [[Fibonacci Retracement]]
 
 - Color: #ff8f40 
-- Background opacity: **10%
+- Background opacity: **2.6%
+- 0.382 level color: #ffffff 
+- 0.5 level color: #ffffff 
+- 0.618 level color: #ffffff 
 
 #### [[Volume]]
 
 - Growing: #ff8f40
 - Falling: #bbb9b2
+
+## Footnotes
+---
+
+[^1]: https://chartthemes.com/bloomberg-terminal
+
+[^2]: https://chartthemes.com/
