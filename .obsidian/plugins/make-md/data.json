@@ -37,11 +37,13 @@
   "expandedSpaces": [
     "/",
     "//Tags",
-    "//Technical Tools",
     "//_Plugins",
     "//_Plugins/_Plugins/Excalidraw",
     "//_Images",
-    "//Images/Images/Technical Tools"
+    "//Images/Images/Technical Tools",
+    "//Technical Tools",
+    "//Excalidraw",
+    "//Images"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

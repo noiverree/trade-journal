@@ -6,6 +6,7 @@
       {
         "id": "178d68ef4e31dfef",
         "type": "tabs",
+        "dimension": 49.40047961630695,
         "children": [
           {
             "id": "96b3d304a798ac50",
@@ -13,13 +14,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Tools/Fibonacci Retracement.md",
+                "file": "Technical Tools/Volume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fibonacci Retracement"
+              "title": "Volume"
+            },
+            "group": "747c6d8761882d63"
+          },
+          {
+            "id": "d2e103e059c63d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Tools/Volume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volume"
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e9b506c5e767097a",
+        "type": "tabs",
+        "dimension": 50.59952038369304,
+        "children": [
+          {
+            "id": "fabcc0eccb46ac03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Tools/Volume.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volume"
+            },
+            "group": "747c6d8761882d63"
           }
         ]
       }
@@ -75,7 +114,7 @@
             }
           },
           {
-            "id": "042005c33769d1d7",
+            "id": "b9fe00e5ec3c6e43",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -105,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Patterns/Fibonacci Retracement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fibonacci Retracement"
+              "title": "Backlinks"
             }
           },
           {
@@ -180,45 +218,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "96b3d304a798ac50",
+  "active": "d2e103e059c63d3a",
   "lastOpenFiles": [
-    "TradingView Setup.md",
-    "Noiverre's Trade Journal.md",
     "Technical Tools/Fibonacci Retracement.md",
     "Technical Tools/Volume.md",
-    "Technical Tools/Technical Tools.md",
+    "Images/Technical Tools/Volume/volume_volume_relationship.png",
+    "Images/Technical Tools/Fibonacci Retracement/fibonacci_retracement_eurusd_2.png",
     "Images/Technical Tools/Fibonacci Retracement/Fibonacci Retracement.md",
+    "Images/Technical Tools/Volume/Volume.md",
+    "Excalidraw/Excalidraw.md",
+    "Images/Technical Tools/Volume",
+    "Excalidraw/drawing_price_volume_relationship.md",
+    "Excalidraw/drawing_fibonacci_retracement_eurusd_1.md",
+    "Pasted Image 20250320063324_276.png",
+    "Template/Technical Review.md",
+    "Template/Template.md",
+    "Template",
+    "Untitled.md",
+    "Technical Tools/Volume Oscillators.md",
+    "TradingView Setup.md",
+    "Noiverre's Trade Journal.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Tags",
+    "Technical Tools/Technical Tools.md",
     "Images/Technical Tools/Fibonacci Retracement/fibonacci_retracement_eurusd_5.png",
     "Images/Technical Tools/Fibonacci Retracement/fibonacci_retracement_eurusd_4.png",
     "Images/Technical Tools/Fibonacci Retracement/fibonacci_retracement_eurusd_3.png",
-    "Images/Technical Tools/Fibonacci Retracement/fibonacci_retracement_eurusd_2.png",
     "Images/Technical Tools/Fibonacci Retracement/fibonacci_retracement_eurusd_1.png",
     "Pasted image 20250317020001.png",
     "Pasted image 20250317015348.png",
     "EURUSD_2025-03-17_01-52-55.png",
     "Images/Technical Tools/Technical Tools.md",
     "Images/Technical Tools/Fibonacci Retracement",
-    "Excalidraw/drawing_fibonacci_retracement_eurusd_1.md",
-    "Pasted image 20250317014840.png",
     "Images/Technical Tools/Drawing 2025-03-17 01.44.40.excalidraw.md",
     "Excalidraw",
     "_Plugins/Excalidraw/Fibonacci Retracement 2025-03-17 01.21.16.excalidraw.md",
     "_Plugins/Excalidraw",
-    "Technical Tools/Untitled.md",
-    "Untitled.md",
     "Vault.md",
     "_Plugins/_Plugins.md",
     "_Plugins",
     "_Plugins/Ink/Drawing/2025.3.17 - 1.17am.drawing",
     "_Plugins/Ink/Writing/2025.3.17 - 1.16am.writing",
     "_Plugins/Ink/Writing",
-    "_Plugins/Ink/Drawing/2025.3.17 - 1.16am.drawing",
-    "_Plugins/Ink/Drawing",
-    "_Plugins/Ink",
     "Tags/Tags.md",
     "Images/Patterns/Untitled.md",
     "Technical Patterns/Breakout.md",
-    "Untitled.canvas",
     "2025-03-14.md",
     "Welcome.md",
     "create a link.md"
