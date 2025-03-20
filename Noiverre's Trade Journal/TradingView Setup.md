@@ -23,7 +23,7 @@ Here are some key settings for my TradingView chart style. From candlestick colo
 ---
 ## Tools
 
-#### [[Fibonacci Retracement]]
+#### [[Noiverre's Trade Journal/Technical Tools/Fibonacci Retracement]]
 
 - Color: #ff8f40 
 - Background opacity: **2.6%
@@ -31,7 +31,7 @@ Here are some key settings for my TradingView chart style. From candlestick colo
 - 0.5 level color: #ffffff 
 - 0.618 level color: #ffffff 
 
-#### [[Volume]]
+#### [[Noiverre's Trade Journal/Technical Tools/Volume]]
 
 - Growing: #ff8f40
 - Falling: #bbb9b2

@@ -36,3 +36,4 @@ After some time, a check reveals the position remains positive and hasn't return
 [^3]: https://www.investopedia.com/terms/f/fibonacciretracement.asp
 
 [^4]: https://www.tradingview.com/chart/LL38Jylp/?symbol=FX%3AEURUSD
+
