@@ -42,11 +42,16 @@
     "//Images/Images/Technical Tools",
     "/",
     "//Journal",
-    "//Images",
     "//Noiverre's Trade Journal",
     "//Images/Images/Technical Tools/Images/Technical Tools/Noiverre's Trade Journal",
     "//Noiverre's Trade Journal/Noiverre's Trade Journal/Introduction",
-    "//Excalidraw"
+    "//Excalidraw",
+    "//Noiverre's Trade Journal/Noiverre's Trade Journal/Technical Analysis",
+    "//Images",
+    "//Images/Images/Technical Analysis",
+    "//Images/Images/Technical Analysis/Images/Technical Analysis/Support and Resistance",
+    "//Excalidraw/Excalidraw/Technical",
+    "//Excalidraw/Excalidraw/Technical Analysis"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

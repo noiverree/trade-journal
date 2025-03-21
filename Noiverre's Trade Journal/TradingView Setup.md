@@ -6,12 +6,12 @@ Here are some key settings for my TradingView chart style. From candlestick colo
 ---
 ## Terminal
 
-#### Canvas
+### Canvas
 
 - Background: **Solid**, #0e1017
 - Text: #ffffff
 
-#### Symbol
+### Symbol
 
 - Bullish body: #ff8f40
 - Bearish body: #bbb9b2
@@ -23,7 +23,7 @@ Here are some key settings for my TradingView chart style. From candlestick colo
 ---
 ## Tools
 
-#### [[Noiverre's Trade Journal/Technical Tools/Fibonacci Retracement]]
+### [[Noiverre's Trade Journal/Technical Analysis/Fibonacci Retracement|Fibonacci Retracement]]
 
 - Color: #ff8f40 
 - Background opacity: **2.6%
@@ -31,12 +31,15 @@ Here are some key settings for my TradingView chart style. From candlestick colo
 - 0.5 level color: #ffffff 
 - 0.618 level color: #ffffff 
 
-#### [[Noiverre's Trade Journal/Technical Tools/Volume]]
+### [[Noiverre's Trade Journal/Technical Analysis/Volume|Volume|]]
 
 - Growing: #ff8f40
 - Falling: #bbb9b2
 
-[[Volume Oscillators]]
+### Rectangle Tool
+
+- Line : #8f5125
+- Background: #bbb9b2
 ## Footnotes
 ---
 
